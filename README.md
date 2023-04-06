@@ -1,6 +1,6 @@
 # My_audioTranscribeAWS
 
-See my article on LinkedIn to understand how I used this code:
+See my article on medium to understand how I used this code:
 https://medium.com/@sayantansamanta12102001/speech-to-text-using-aws-transcribe-s3-and-lambda-7e8854d0f21f
 
 
