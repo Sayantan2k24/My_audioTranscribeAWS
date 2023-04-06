@@ -1,5 +1,9 @@
 # My_audioTranscribeAWS
 
+See my article on LinkedIn to understand how I used this code:
+https://medium.com/@sayantansamanta12102001/speech-to-text-using-aws-transcribe-s3-and-lambda-7e8854d0f21f
+
+
 This is a Python script that uses the Amazon Web Services (AWS) SDK for Python (Boto3) and AWS Lambda service to trigger the Amazon Transcribe service to transcribe an audio file that has been uploaded to an S3 bucket.
 
 Here is a step-by-step explanation of the code:
