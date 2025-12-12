@@ -1,3 +1,4 @@
+```bash
 API Gateway → Lambda Upload → S3 (input)
                                           \
                                            S3 Event Trigger
@@ -11,3 +12,5 @@ API Gateway → Lambda Upload → S3 (input)
                     Lambda Process-Output → Publish SNS Notification
                                                ↓
                                            Email / SMS
+
+```
